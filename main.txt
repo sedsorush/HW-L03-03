@@ -1,3 +1,5 @@
 this is the main branch.
 
+feature 1: adding some exciting new changes.
+
 Main branch: preparing for a big update.
